@@ -23,8 +23,7 @@ O projeto implementa as operações básicas de depósito, saque e extrato, segu
     -   React 18+
     -   TypeScript
     -   Axios
--   **Deploy (Frontend):**
-    -   GitHub Pages
+-   
 
 ## Pré-requisitos
 
