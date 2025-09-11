@@ -1,6 +1,6 @@
 # Sistema Bancário Simples (Full-Stack)
 
-Este é um projeto de um sistema bancário simples, desenvolvido como parte de um desafio técnico para uma vaga de emprego. A aplicação é construída com uma arquitetura full-stack, utilizando Python e FastAPI para o backend e React com TypeScript para o frontend.
+Este é um projeto de um sistema bancário simples, desenvolvido como parte de um desafio técnico. A aplicação é construída com uma arquitetura full-stack, utilizando Python e FastAPI para o backend e React com TypeScript para o frontend.
 
 O projeto implementa as operações básicas de depósito, saque e extrato, seguindo regras de negócio específicas.
 
